@@ -98,5 +98,3 @@ ARMA Process
 	  ARMA Process using dlsim and arma.process
 	  Theoretical Mean and Variance
 
-![image](https://user-images.githubusercontent.com/76020767/161135284-5ba40dd3-081a-4f2d-86ad-36b754e96f85.png)
-
