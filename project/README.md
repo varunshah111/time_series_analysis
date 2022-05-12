@@ -22,6 +22,6 @@
 | registered |   Number of registered user rentals initiated    |
 | count | Number of Total rentals. |
 
-Source: https://www.kaggle.com/competitions/bike-sharing-demand/overview
+Dataset Source: https://www.kaggle.com/competitions/bike-sharing-demand/overview
 
 ##### Note: the file toolbox.py includes all the functions defined necessary for this project. This code is not uploaded here on git to avoid any kind of plagiarism.
