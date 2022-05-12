@@ -23,4 +23,4 @@
 | count | Number of Total rentals. |
 
 
-##### Note: the file toolbox.py includes all the functions defined. It is not uploaded here on git to avoid any kind of plagiarism.
+##### Note: the file toolbox.py includes all the functions defined necessary for this project. This code is not uploaded here on git to avoid any kind of plagiarism.
